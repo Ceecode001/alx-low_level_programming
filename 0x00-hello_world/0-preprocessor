@@ -1,3 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/action
-
+gcc -E $CFILE -o c
